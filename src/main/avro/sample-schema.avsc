@@ -1,0 +1,1 @@
+{"type":"record","name":"AnotherPojo","namespace":"it.polimi.schemamanager","fields":[{"name":"id","type":"string"},{"name":"ref","type":{"type":"record","name":"Pojo","fields":[{"name":"name","type":"string"},{"name":"age","type":"int"},{"name":"description","type":"string"}]}}]}
